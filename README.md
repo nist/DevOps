@@ -23,15 +23,15 @@ My knowledge base for DevOps
 * [Heroku](cloud/heroku.md)
 
 ## Serverless
-* [Firebase](cloud/firebase.md)
-* [Nbase](cloud/nbase.md)
-* [Pocketbase](cloud/pocketbase.md)
-* [Supabase](cloud/supabase.md)
+* [Firebase](serveless/firebase.md)
+* [Nbase](serveless/nbase.md)
+* [Pocketbase](serveless/pocketbase.md)
+* [Supabase](serveless/supabase.md)
 
 ## Config
-* [Ansible](cloud/ansible.md)
-* [Helm](cloud/helm.md)
-* [Terraform](cloud/terraform.md)
+* [Ansible](config/ansible.md)
+* [Helm](config/helm.md)
+* [Terraform](config/terraform.md)
 
 ## CI/CD
 * [Argo CI](cicd/argo.md)
