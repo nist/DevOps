@@ -16,17 +16,19 @@ Le format des fichiers est le *YAML*.
 
 La structure d'un chart est :
 
+```
 nom/
 	chart.yaml **(métadonnées)**
 	values.yaml **(variables)** 
 	charts/ **(dépendances)**
 	templates/ **(modèles)**
+```
 
 ## Useful commands
 
-Install : `helm install <chartname>`
-Upgrade : `helm upgrade <chartname>`
-Rollback : `helm rollback <chartname>`
+- Install : `helm install <chartname>`
+- Upgrade : `helm upgrade <chartname>`
+- Rollback : `helm rollback <chartname>`
 
 ## Best practices
 
