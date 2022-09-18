@@ -1,11 +1,11 @@
 # DevOps
 
-My knowledge base for DevOps
+Base de connaissances pour DevOps
 
 ## concepts
 * [CAAS](concepts/caas.md)
 <!-- * [Edge](concepts/edge.md) -->
-* [FAAS](concepts/faas.md)
+<!-- * [FAAS](concepts/faas.md) -->
 * [Infrastructure as Code](concepts/iac.md)
 <!-- * [Monorepo vs Multirepo](concepts/mono_multi.md) -->
 <!-- * [Serverless](concepts/serveless.md) -->
