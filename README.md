@@ -7,10 +7,10 @@ My knowledge base for DevOps
 <!-- * [Edge](concepts/edge.md) -->
 * [FAAS](concepts/faas.md)
 * [Infrastructure as Code](concepts/iac.md)
-<!-- * [Monorepo vs Multirepo](concepts/mono_multi.md)
-* [Serverless](concepts/serveless.md)
-* [Site Reliability Engineering](concepts/sre.md)
- -->
+<!-- * [Monorepo vs Multirepo](concepts/mono_multi.md) -->
+<!-- * [Serverless](concepts/serveless.md) -->
+<!-- * [Site Reliability Engineering](concepts/sre.md) -->
+
 ## Container
 * [Docker](container/docker.md)
 <!-- * [Istio](container/istio.md) -->
@@ -19,9 +19,9 @@ My knowledge base for DevOps
 ## Cloud
 <!-- * [AWS](cloud/aws.md) -->
 * [Microsoft Azure](cloud/azure.md)
-<!-- * [Google Cloud](cloud/google.md)
-* [Heroku](cloud/heroku.md)
- -->
+<!-- * [Google Cloud](cloud/google.md) -->
+<!-- * [Heroku](cloud/heroku.md) -->
+
 <!-- ## Serverless
 * [Firebase](serveless/firebase.md)
 * [Nbase](serveless/nbase.md)
