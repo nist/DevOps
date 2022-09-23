@@ -44,13 +44,13 @@ Des logiciels de monitoring viennent alors à la rescousse.
 
 Il existe essentiellement deux types de logiciels de monitoring :
 
-1. Push
+**Push**
 
 C'est la responsabilité de chaque composante d'alimenter le monitor. Par exemple, un serveur va indiquer à interval regulier qu'il est en vie au logiciel de monitor.
 
 Pour ce faire, il faut installer un daemon, un logiciel s'exécutant en arrière-plan, pour envoyer les informations requises au monitor.
 
-2. Pull
+**Pull**
 
 Cette fois, c'est la responsabilité du logiciel de monitoring d'aller quérir les données dont il a besoin. Les composantes ne font que les rendre disponibles d'une certaine façon au monitor.
 
